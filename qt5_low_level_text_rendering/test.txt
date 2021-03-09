@@ -1,0 +1,5 @@
+This text may seem static.
+It can be clicked with the mouse; the cursor will not show up.
+Nevertheless, this text is still editable. Default keyboard bindings work.
+
+I made an attempt to work with what was referred to as "low-level Qt5 text layouts". This text file is rendered by low-level QTextLayouts and can be edited through an invisible default QLineEdit. Developing custom text editor for customly formatted text is much harder then I initially thought. Qt may not be the right tool.
