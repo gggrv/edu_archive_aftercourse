@@ -1,6 +1,6 @@
 # aftercourse
 
-A collection of minimalist working snippets that illustrate basic syntax and usage of certain tools.
+A collection of minimal working programs that illustrate basic syntax and usage of certain tools.
 
 ## Available items
 
